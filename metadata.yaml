@@ -1,0 +1,27 @@
+_repo: Les-langues-sur-le-web_32065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lebert, Marie
+    gutenberg_agent_id: '32388'
+    url: http://www.gutenberg.org/2009/agents/32388
+description: ''
+gutenberg_bookshelf:
+- FR Langues
+- FR Sciences et Techniques
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32065'
+language: fr
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'TK'
+- !lcsh 'World Wide Web'
+title: Les langues sur le web
+url: http://www.gutenberg.org/ebooks/32065
